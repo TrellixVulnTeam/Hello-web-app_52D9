@@ -33,3 +33,15 @@ header.masthead>.overlay {
     padding: 10rem 0;
   }
 }
+
+
+.content {
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+h1, h2, h3 {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
